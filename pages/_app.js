@@ -100,14 +100,14 @@ function App({ Component, pageProps }) {
             <div className="header__right flex items-center h-20 space-x-4">
               <button className="header__button">
                 <span
-                  class="iconify"
+                  className="iconify"
                   data-icon="ic:baseline-settings"
                   data-inline="false"
                 ></span>
               </button>
               <button className="header__button relative">
                 <span
-                  class="iconify"
+                  className="iconify"
                   data-icon="fa-solid:bell"
                   data-inline="false"
                 ></span>
@@ -162,7 +162,7 @@ function App({ Component, pageProps }) {
               </div>
               <button className="header__button">
                 <span
-                  class="iconify"
+                  className="iconify"
                   data-icon="fe:app-menu"
                   data-inline="false"
                 ></span>
